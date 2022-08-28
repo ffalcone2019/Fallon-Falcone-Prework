@@ -1,4 +1,4 @@
-# Fallon-Falcone-Prework
+# Fallon-Falcone
 
 This assignment features a tip calculator using Swift.
 Below is a gif demonstrating the application.
