@@ -1,4 +1,4 @@
-# Fallon-Falcone
+# Fallon-Falcone-Unit0
 
 This assignment features a tip calculator using Swift.
 Below is a gif demonstrating the application.
